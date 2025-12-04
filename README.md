@@ -1,6 +1,5 @@
 # algorithm-deep-dive
 
-
 - 12.03 링크드리스트
     - 개념정리([LinkedList.md](python%2Falgorithm%2Flinkedlist%2FLinkedList.md))
     - 요세푸스 문제 ([backjoon_1185.py](python%2Falgorithm%2Flinkedlist%2Fbackjoon_1185.py))

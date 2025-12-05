@@ -8,3 +8,7 @@
   - 개념정리 ([BinarySearch.md](python%2Falgorithm%2Fbinarysearch%2FBinarySearch.md))
   - 숫자카드 ([backjoon_10815.py](python%2Falgorithm%2Fbinarysearch%2Fbackjoon_10815.py))
   - 입국심사 ([programmers_입국심사.py](python%2Falgorithm%2Fbinarysearch%2Fprogrammers_%C0%D4%B1%B9%BD%C9%BB%E7.py))
+
+- 12.05 재귀함수
+  - 개념정리 ([Recursion.md](python%2Falgorithm%2Frecursion%2FRecursion.md))
+  - 팩토리얼 ([backjoon_10872.py](python%2Falgorithm%2Frecursion%2Fbackjoon_10872.py))
